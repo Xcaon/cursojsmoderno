@@ -1,0 +1,10 @@
+.titulo {
+    text-align: center;
+}
+
+.objeto {
+    background-color: #ccc;
+    color: black;
+    margin-bottom: 10px;
+    padding: 4px;
+}
